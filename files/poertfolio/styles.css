@@ -1,0 +1,32 @@
+﻿body {
+  margin:0px;
+  background-color:rgba(0, 0, 0, 1);
+  background-image:none;
+  position:static;
+  left:auto;
+  width:1187px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u6 {
+  border-width:0px;
+  position:absolute;
+  left:233px;
+  top:141px;
+  width:950px;
+  height:550px;
+}
+#u6_input {
+  border-width:2px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:950px;
+  height:550px;
+  overflow:auto;
+}

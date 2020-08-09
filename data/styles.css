@@ -7,7 +7,13 @@
   text-align:center;
   line-height:normal;
 }
+.box_1 {
+}
+.box_2 {
+}
 ._mage {
+}
+.placeholder {
 }
 .heading_1 {
   font-family:'Arial Normal', 'Arial';
@@ -52,6 +58,4 @@
 }
 .paragraph {
   text-align:left;
-}
-.flow_shape {
 }
